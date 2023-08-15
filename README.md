@@ -9,4 +9,4 @@ In the project directory, you can run:
 ## npm install to install dependencies
 # npm start
 
-<img src = "screenshot/profile-app.png" height="600">
+<img src = "screenshots/profile-app.png" height="600">
